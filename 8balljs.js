@@ -7,8 +7,11 @@ function generate_random (max_number) {
     let answer = document.querySelector("#answer");
    
     button.addEventListener("click", function()
+    //click to generate
  {
     let randomNumber = generate_random(3);
+    // rolls numbers 0-3
+    
  
     let answerText = "";
 

@@ -2,6 +2,7 @@ html{
     background: linear-gradient(90deg,rgb(130, 130, 219), rgb(154, 222, 154));
     color:black
     }
+    /*linear gradient purple to green left to right*/
 body{
     background:white;
     width: 400px;
@@ -10,6 +11,7 @@ body{
     padding: 20px;
     border-start-end-radius: 5px;
 }
+/*8 ball outline menu, curving edges and making things look more appealing*/
 eightBall {
     width:350px;
     height: 350px;
